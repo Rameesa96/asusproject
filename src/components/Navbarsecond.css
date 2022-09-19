@@ -1,0 +1,47 @@
+.navbarsecondtext{
+    margin-left: 600px;
+    margin-top: -33px;
+   
+}
+.Navsec{
+    height: 50px;
+    margin-top: 7px;
+    position: absolute;
+}
+
+@media screen and (max-width: 1024px){
+ 
+   
+    .navbarsecondtext{
+        margin-left: 350px;
+        margin-top: -30px;
+       
+    }
+}
+@media screen and (max-width: 769px){
+ 
+   
+    .navbarsecondtext{
+        margin-left: 220px;
+        margin-top: -30px;
+       
+    }
+}
+@media screen and (max-width: 426px){
+ 
+   
+    .navbarsecondtext{
+        margin-left: 40px;
+        margin-top: -30px;
+       
+    }
+}
+@media screen and (max-width: 321px){
+    .navbarsecondtext{
+        margin-left: 20px;
+        margin-top: -30px;
+        font-size: 15px;
+       
+    }
+}
+

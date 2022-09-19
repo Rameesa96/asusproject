@@ -1,0 +1,113 @@
+.advertise{
+    margin-top: 80px;
+    text-align: center;
+   
+    right:60px;
+    left:60px;
+}
+.Gridadvertise{
+margin-left: 300px;
+margin-top: 50px;
+}
+.media:hover{
+    transform: scale(1.1);
+}
+.advertisecard{
+    max-width: 405px;
+}
+.advertisehead{
+    font-weight: 800px;
+    
+    font-size: 2.5rem;
+    letter-spacing: -.4px;
+    color: black;
+   
+}
+.adver{
+    margin-top: 40px;
+    text-align: center;
+    
+}
+.btnadv{
+    color: #006ce1;
+font-size: 20px;
+style:none;
+text-decoration: none;
+border: none;
+}
+.btnadv:hover{
+    text-align: underline;
+}
+
+@media screen and (max-width: 1024px){
+    .advertise{
+        margin-left: 0px;
+        right:60px;
+    left:60px;
+}
+    }
+
+@media screen and (max-width: 768px){
+    .advertise{
+        margin-left:0px;
+        right:0px;
+        left:15px;
+    }
+    .advertisecard{
+        max-width: 350px;
+    }
+}
+@media screen and (max-width: 426px){
+    .advertise{
+        margin-left:0px;
+        right:0px;
+        left:40px;
+    }
+    .advertisecard{
+        max-width: 350px;
+    }
+    .advertisehead{
+        font-weight: 800px;
+        
+        font-size: 1.8rem;
+        letter-spacing: -.4px;
+        color: black;
+       
+    }
+}
+@media screen and (max-width: 376px){
+    .advertise{
+        margin-left:0px;
+        right:0px;
+        left:10px;
+    }
+    .advertisecard{
+        max-width: 350px;
+    }
+    .advertisehead{
+        font-weight: 800px;
+        
+        font-size: 1.8rem;
+        letter-spacing: -.4px;
+        color: black;
+       
+    }
+}
+@media screen and (max-width: 321px){
+    .advertise{
+        margin-left:0px;
+        right:0px;
+        left:0px;
+    }
+    .advertisecard{
+        max-width: 350px;
+    }
+    .advertisehead{
+        font-weight: 800px;
+        
+        font-size: 1.6rem;
+        letter-spacing: -.4px;
+        color: black;
+       
+    }
+}

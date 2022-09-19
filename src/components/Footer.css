@@ -1,0 +1,319 @@
+.footer{
+    background-color: rgb(247, 247, 247);
+    margin-top: -20px;
+    height:600px;
+  
+}
+.list{
+   list-style: none;
+}
+.listtext{
+    font-size: 12px;
+margin-top: 10px;}
+.listhead{
+    font-size: 13px;
+    margin-top: 12px;
+    color: black;
+}
+.listdiv{
+    margin-top: 40px;
+}
+.listdiv3{
+    margin-top: 40px;
+}
+.head{
+    font-size: 13px;
+    font-weight: 500;
+    color: black;
+}
+.head1
+{
+    margin-top: 10px;
+    font-size: 13px;
+    font-weight: 500;
+    color: black;
+}
+.inline{
+    display: flex;
+    list-style: none;
+    margin-top: 20px;
+}
+.inline2{
+    display: flex;
+    list-style: none;
+    margin-top: 20px;
+}
+.lastlist{
+    margin-top: 20px;
+    margin-left: -100px;
+}
+.listin{
+    margin-left: 10px;
+}
+
+.headlast{
+    margin-left: 35px;
+    font-size: 13px;
+    font-weight: 500;
+    color: black;
+}
+.listdiv1{
+margin-top: 40px;
+margin-left: 60px;
+}
+.listdiv2{
+    margin-top: 40px;
+    margin-left: -60px;
+}
+.lastfoot{
+    background-color: rgb(247, 247, 247);
+    font-size: 12px;
+}
+.lastfoo{
+    margin-left: 100px;
+    margin-top: -10px;
+    justify-content: center;
+}
+.foot{
+    margin-left: 60px;
+}
+.listflx{
+    list-style: none;
+}
+.listdivre{
+    display: none !important;
+}
+.bigli{
+    display: none !important;
+}
+.vl{
+    border-right: 1px solid rgba(224, 224, 224, 1);
+}
+@media screen and (max-width: 1024px){
+.foot{
+    margin-left: 0px;  
+}
+.listdiv1{
+    margin-top: 40px;
+    margin-left: -10px;
+    }
+    .listdiv{
+        margin-left: -80px;
+    }
+    .listdiv3{
+        margin-top: 40px;
+        margin-left: -100px;
+    }
+    .listgriddiv{
+        background-color:rgb(247, 247, 247) ;
+       
+    }
+    .listflx{
+        list-style: none;
+        display:flex;
+        margin-left: 300px;
+        background-color: rgb(247, 247, 247);
+       
+     }
+     .headlast{
+        display: none;
+     }
+     .inline2{
+        margin-left:-30px;
+        
+     }
+     .linehori{
+        margin-top: 0px;
+     }
+     .lastfoo{
+        margin-left: 0px;
+        margin-top: -20px;
+        justify-content: center;
+    }
+}
+@media screen and (max-width: 768px){
+    .foot{
+        margin-left: 0px;  
+    }
+    .listdiv2{
+        margin-left: 0px;
+    }
+    .listdiv1{
+        margin-top: 40px;
+        margin-left: -10px;
+        }
+        .listdiv{
+            margin-left: -50px;
+        }
+        .listdiv3{
+            margin-top: 40px;
+            margin-left: 20px;
+        }
+        .listgriddiv{
+            background-color:rgb(247, 247, 247) ;
+           
+        }
+        .listflx{
+            list-style: none;
+            display:flex;
+            margin-left: 80px;
+            background-color: rgb(247, 247, 247);
+           
+         }
+         .headlast{
+            display: none;
+         }
+         .inline2{
+            margin-left:-30px;
+            
+         }
+         .linehori{
+            margin-top: 0px;
+         }
+         .lastfoo{
+            margin-left:   10px;
+            margin-top: -20px;
+            justify-content: center;
+        }
+    }
+    @media screen and (max-width: 426px){
+        .listdivre{
+            display: block !important;
+            list-style: none;
+            background-color:rgb(247, 247, 247) ;
+            margin-top: -30px;
+        }
+        .footer{
+            display: none !important
+        }
+        .hrlistdiv{
+            margin-left: -100px;
+            
+        }
+        .btlistdiv{
+            margin-left: 276px;
+        }
+        .headli{
+            font-size: 13px;
+            font-weight: 500;
+            color: black;
+            margin-top: -25px;
+        }
+        .btlistdiv1{
+            margin-left: 300px;
+        }
+        .btlistdiv2{
+            margin-left: 320px;
+        }
+        .btlistdiv3{
+            margin-left: 310px;
+        }
+        .listgriddiv{
+            display: block !important;
+       
+        }
+        .bigli{
+            display: block !important;
+            background-color: rgb(247, 247, 247);
+            margin-top: -20px;
+            height: 250px;
+        }
+        .ul{
+            list-style: none;
+           
+        }
+      
+        .inline2{
+            list-style: none; 
+            margin-left: 20px;
+        }
+     
+       .listin{
+        margin-top: 20px;
+       }
+       .india{
+        font-size: 12px;
+        margin-left: 15px;
+        margin-top: 10px;
+       }
+    } @media screen and (max-width: 376px) {
+       .headlast{
+        margin-top: 0px;
+       }
+        .listdivres{
+            margin-top: 0px;
+        }
+        .btlistdiv1{
+            margin-left: 248px;
+        }
+        .btlistdiv2{
+            margin-left:267px;
+        }
+        .btlistdiv3{
+            margin-left:260px ;
+        }
+        .btlistdiv{
+            margin-left: 222px;
+            
+        }
+        .headli{
+            margin-top: -20px;
+        }
+        .listdivre{
+            display: block !important;
+            list-style: none;
+            background-color:rgb(247, 247, 247) ;
+            margin-top: -30px;
+            justify-content: center;
+        }
+        .hrlistdiv{
+            margin-left: -100px;
+            margin-top: 10px;
+            
+        }
+    }
+    @media screen and (max-width: 321px) {
+        .headlast{
+         margin-top: 0px;
+        }
+         .listdivres{
+             margin-top: 0px;
+         }
+         .btlistdiv1{
+             margin-left: 190px;
+         }
+         .btlistdiv2{
+             margin-left:210px;
+         }
+         .btlistdiv3{
+             margin-left:204px ;
+         }
+         .btlistdiv{
+             margin-left: 165px;
+             
+         }
+         .headli{
+             margin-top: -20px;
+         }
+         .listdivre{
+             display: block !important;
+             list-style: none;
+             background-color:rgb(247, 247, 247) ;
+             margin-top: -30px;
+             justify-content: center;
+         }
+         .hrlistdiv{
+             margin-left: -100px;
+             margin-top: 10px;
+             
+         }
+         .inline2{
+            list-style: none; 
+            margin-left: -20px;
+        }
+        .inline{
+            margin-left: -40px;
+        }
+     }
+
+

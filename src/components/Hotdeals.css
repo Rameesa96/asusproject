@@ -1,0 +1,47 @@
+.hotdeals{
+    text-align: center;
+    margin-top: 100px;
+}
+.hotdealtext{
+    text-decoration: none;
+    color: black;
+}
+.hotdealtext:hover{
+    color: black;
+}
+.small{
+    display: none !important;
+}
+@media screen and (max-width: 426px){
+    .small{
+        display:block !important;
+    }
+    .big{
+        display: none !important;
+    }
+    .hotdealtext{
+        text-decoration: none;
+        color: black;
+        margin-left: -60px;
+    }
+  
+}
+@media screen and (max-width: 376px){
+    .hotdealtext{
+        text-decoration: none;
+        color: black;
+        margin-left: -30px;
+    }
+  
+}
+@media screen and (max-width: 376px){
+    .hotdealtext{
+        text-decoration: none;
+        color: black;
+        margin-left: -10px;
+        
+    }
+  .mobileslide{
+    margin-top: -30px;
+  }
+}

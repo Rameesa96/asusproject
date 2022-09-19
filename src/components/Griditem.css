@@ -1,0 +1,196 @@
+
+.items{
+    margin-top: 20px;
+  right:12px;
+  left: 12px;
+
+}
+.imgtext{
+ 
+    position: fixed;
+    z-index: 1;
+}
+.firstimage{
+    background-color: rgb(247, 247, 247);
+    margin-bottom: -10px;
+    max-width: 200%;
+    object-fit: cover;
+    height: 100px;
+  
+    
+}
+.firstimagetext{
+    margin-top: 40px;
+    justify-content: center;
+    margin-left: 170px;
+    width:380px;
+   
+   
+}
+.gridImage41{
+    display: none !important;
+}
+.gridImage31{
+    display: none !important;
+}
+.gridImage21{
+    display: none !important;
+}
+.gridImage11{
+    display: none !important;
+}
+  
+@media screen and (max-width: 1024px){
+    .items{
+        margin-top:20px;
+      right:12px;
+      left: 12px;
+    
+    } 
+    .firstimagetext{
+        margin-top: 40px;
+        width:350px;
+        margin-left: 40px;
+        text-align: center;
+    }
+}
+@media screen and (max-width: 769px){
+    .items{
+        margin-top:20px;
+      right:12px;
+      left: 12px;
+    
+    } 
+    .firstimagetext{
+        margin-top: 40px;
+        width:250px;
+        margin-left: 80px;
+        text-align: center;
+    }
+    .gridImage41{
+        display: block !important;
+        height: 250px;
+        width: 145%;
+        margin-top: -10px;
+    }
+    .gridImage31{
+        display: block !important;
+        height: 250px;
+        width: 145%;
+        margin-top: -10px;
+    }
+    .gridImage21{
+        display: block !important;
+        height: 250px;
+        width: 145%;
+        margin-top: -10px;
+    }
+    .gridImage11{
+        display: block !important;
+        height: 250px;
+        width: 145%;
+        margin-top: -10px;
+    }
+    .gridImage4{
+        display: none !important;
+    }
+    .gridImage3{
+        display: none !important;
+    }
+    .gridImage2{
+        display: none !important;
+    }
+    .gridImage1{
+        display: none !important;
+    }
+}
+@media screen and (max-width: 426px){
+    .gridImage41{
+        display: block !important;
+        height: 250px;
+        width: 145%;
+        margin-top: -10px;
+    }
+    .gridImage31{
+        display: block !important;
+        height: 250px;
+        width: 145%;
+        margin-top: -10px;
+    }
+    .gridImage21{
+        display: block !important;
+        height: 250px;
+        width: 145%;
+        margin-top: -10px;
+    }
+    .gridImage11{
+        display: block !important;
+        height: 250px;
+        width: 145%;
+        margin-top: -10px;
+    }
+    .gridImage4{
+        display: none !important;
+    }
+    .gridImage3{
+        display: none !important;
+    }
+    .gridImage2{
+        display: none !important;
+    }
+    .gridImage1{
+        display: none !important;
+    }
+    .firstimage{
+        background-color: rgb(247, 247, 247);
+        margin-bottom: -10px;
+        max-width: 200%;
+        object-fit: cover;
+        height: 100px;
+      
+        
+    }
+    .firstimagetext{
+        margin-top: 40px;
+        justify-content: center;
+        margin-left: 100px;
+        width:270px;
+        height: 30px;
+       
+       
+    }
+}
+@media screen and (max-width: 376px){
+    .items{
+        margin-top:20px;
+      right:12px;
+      left: 12px;
+    
+    } 
+    .firstimagetext{
+        margin-top: 40px;
+        width:230px;
+        height: 40px;
+        margin-left: 58px;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 321px){
+    .items{
+        margin-top:20px;
+      right:12px;
+      left: 12px;
+    
+    } 
+    .firstimagetext{
+        margin-top: 40px;
+        width:230px;
+        height: 40px;
+        margin-left: 40px;
+        text-align: center;
+    }
+}
+
+
+

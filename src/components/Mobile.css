@@ -1,0 +1,109 @@
+.APP{
+    margin-top: 80px;
+    background-color: rgb(247, 247, 247) ;
+    right:60px;
+   left:60px;
+    text-align: center;
+
+}.slick-dots {
+    visibility: hidden;
+}
+.mobileslide{
+    left:60px
+}
+.cardname{
+    font-weight: 500;
+}
+.line{
+    color:rgb(218,72,0);
+    height:2px;
+}
+.buttonW {
+    width: 100%;
+    height: 30px ;
+    font-weight: 500;
+  }
+  .buttonL{
+    width: 93%;
+    height: 30px ; 
+    margin-top: 0px;
+    margin-left: -20px;
+    font-weight: 500;
+  }
+  .buttonlo{
+    width: 100%;
+    font-weight: 500;
+  }
+  .btn{
+    color:#1976d2;
+    width:10px
+  }
+.card{
+    
+    
+    border-radius: 150px;
+    
+    margin-right: 40px;
+    margin-top: 40px;
+}
+.cardimage{
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.features
+{
+    text-align: left;
+}
+.mobilecard{
+    max-width: 405px;
+}
+@media screen and (max-width: 1024px){
+    .APP{
+        margin-top: 80px;
+        background-color: rgb(247, 247, 247) ;
+        right:60px;
+        left:10px;
+        text-align: center;
+       
+    }
+}
+@media screen and (max-width: 768px){
+    .mobileslide{
+        left:15px
+    }
+    .mobilecard{
+        max-width: 350px;
+    }
+}
+@media screen and (max-width: 426px){
+    .mobileslide{
+        left:50px
+    }
+    .mobilecard{
+        max-width: 350px;
+    }
+    .cardimage{
+        margin-left: 75px;
+        margin-top: 20px;
+    }
+}
+@media screen and (max-width: 376px){
+    .mobileslide{
+        left:12px
+    }
+    .mobilecard{
+        max-width: 350px;
+    }
+    .cardimage{
+        margin-left: 80px;
+        margin-top: 20px;
+    }
+}
+@media screen and (max-width: 321px){
+    .mobileslide{
+        left:0px
+    }
+    .mobilecard{
+        max-width: 350px;
+    }
+}
