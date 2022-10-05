@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/asusproject/static/css/main.8449ab01.css",
+    "main.js": "/asusproject/static/js/main.72c69d9c.js",
+    "static/js/787.ee0e3fe2.chunk.js": "/asusproject/static/js/787.ee0e3fe2.chunk.js",
+    "static/media/slick.svg": "/asusproject/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/asusproject/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/asusproject/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/asusproject/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/asusproject/index.html",
+    "main.8449ab01.css.map": "/asusproject/static/css/main.8449ab01.css.map",
+    "main.72c69d9c.js.map": "/asusproject/static/js/main.72c69d9c.js.map",
+    "787.ee0e3fe2.chunk.js.map": "/asusproject/static/js/787.ee0e3fe2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8449ab01.css",
+    "static/js/main.72c69d9c.js"
+  ]
+}
